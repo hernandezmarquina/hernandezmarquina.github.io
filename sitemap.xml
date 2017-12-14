@@ -3,50 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/using-objective-c-libraries-in-swift/</loc>
+    <loc>https://hernandezmarquina.github.io/blog/using-objective-c-libraries-in-swift/</loc>
     <lastmod>2017-12-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://hernandezmarquina.github.io/about/</loc>
     <lastmod>2017-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>https://hernandezmarquina.github.io/contact/</loc>
     <lastmod>2017-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/</loc>
+    <loc>https://hernandezmarquina.github.io/blog/</loc>
     <lastmod>2017-12-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://hernandezmarquina.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://hernandezmarquina.github.io/</loc>
     <lastmod>2017-12-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/swift/</loc>
+    <loc>https://hernandezmarquina.github.io/categories/swift/</loc>
     <lastmod>2017-12-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://hernandezmarquina.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/xcode/</loc>
+    <loc>https://hernandezmarquina.github.io/categories/xcode/</loc>
     <lastmod>2017-12-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
